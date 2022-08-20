@@ -1,0 +1,12 @@
+﻿  server.c
+D:\embedded_FWD\FWD_project1\FWD_project1\server.c(16,34): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t **'
+D:\embedded_FWD\FWD_project1\FWD_project1\server.c(16,24): warning C4024: 'saveTransaction': different types for formal and actual parameter 1
+D:\embedded_FWD\FWD_project1\FWD_project1\server.c(21,103): warning C4047: 'function': 'const char *' differs in levels of indirection from 'uint8_t (*)[20]'
+D:\embedded_FWD\FWD_project1\FWD_project1\server.c(21,56): warning C4024: 'strcmp': different types for formal and actual parameter 2
+D:\embedded_FWD\FWD_project1\FWD_project1\server.c(54,84): warning C4047: 'function': 'const char *' differs in levels of indirection from 'uint8_t (*)[20]'
+D:\embedded_FWD\FWD_project1\FWD_project1\server.c(54,53): warning C4024: 'strcmp': different types for formal and actual parameter 2
+D:\embedded_FWD\FWD_project1\FWD_project1\server.c(69,85): warning C4047: 'function': 'const char *' differs in levels of indirection from 'uint8_t (*)[20]'
+D:\embedded_FWD\FWD_project1\FWD_project1\server.c(69,54): warning C4024: 'strcmp': different types for formal and actual parameter 2
+D:\embedded_FWD\FWD_project1\FWD_project1\server.c(82): warning C4715: 'isAmountAvailable': not all control paths return a value
+D:\embedded_FWD\FWD_project1\FWD_project1\server.c(46): warning C4715: 'recieveTransactionData': not all control paths return a value
+  FWD_project1.vcxproj -> D:\embedded_FWD\FWD_project1\x64\Debug\FWD_project1.exe
